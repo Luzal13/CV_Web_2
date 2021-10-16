@@ -1,0 +1,421 @@
+#cabezera{
+    background-color: #F0EFF4;
+    width: 1060px;;
+    height:200px;
+    position: relative;
+    right: -120px;
+    top: 85px;
+   } 
+
+#info{
+    float: left;
+    overflow: 500px;
+    
+
+}
+#redes{
+   position: relative;
+    width: 400px;
+    left: 20px;
+    bottom: 100px;
+}
+.fa-whatsapp:before{
+    background: #C7934A;
+    color: #1F7F6B;
+    font-size: 15px;
+    padding: 5px;
+    width:20px;
+    height: 20px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 100%;
+    right: 1px;
+}
+.fa-linkedin:before{
+    background: #C7934A;
+    color: #1f217f;
+    font-size: 15px;
+    padding: 5px;
+    width:20px;
+    height: 20px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 100%;
+}
+.fa-behance:before{
+    background: #C7934A;
+    color: #fafafa;
+    font-size: 15px;
+    padding: 5px;
+    width:10px;
+    height: 20px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 50%;
+}
+.fa-github:before{
+    background: #C7934A;
+    color: #000000;
+    font-size: 15px;
+    padding: 5px;
+    width:10px;
+    height: 20px;
+    text-align: center;
+    line-height: 50px;
+    border-radius: 100%;
+}
+
+#boton_mail{
+    position: relative;
+    width: 150px;
+    height: 150px;
+    left: 560px;
+    top: 10px;
+    
+    
+}
+#navegador{
+    position: relative;
+    background: #C7934A;
+    width: 50px;
+    height: 290px;
+
+}
+#emoji1{
+    position: relative;
+    bottom: 80px;
+    left: 13px;   
+}
+#emoji2{
+    position: relative;
+    bottom: 70px;
+    left: 13px;
+}
+#emoji3{
+    position: relative;
+    bottom: 60px;
+    left: 13px;
+}
+#emoji4{
+    position: relative;
+    bottom: 50px;
+    left: 13px;
+}
+#emoji5{
+    position: relative;
+    bottom: 40px;
+    left: 13px;
+}
+#emoji6{
+    position: relative;
+    bottom: 40px;
+    left: 13px;
+}
+#emoji7{
+    position: relative;
+    bottom: 30px;
+    left: 13px;
+}
+#emoji8{
+    position: relative;
+    bottom: 20px;
+    left: 13px;
+}
+#emoji9{
+    position: relative;
+    bottom: 10px;
+    left: 13px;
+}
+
+#todo{ 
+    position: relative;
+    bottom: 250px;
+    width: 1px;
+}
+h1{
+    position: relative;
+    left: 400px;
+    top: 20px;
+    text-align: center;
+    color:#00398a;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+}
+section img {
+   position: relative;
+   right: 350px; ;
+   margin: 0px 10px;
+    width: 200px;
+    bottom: 50px;
+    
+}
+
+#objetivos{
+    
+    background-color: #F0EFF4;
+    width: 1000px;;
+    height:110px;
+    position: relative;
+    left: 160px;
+    top: 80px;
+}
+#emo{
+    position:relative;
+    height: 24px;
+    width: 24px;
+    right: 8px;
+    bottom:3px
+}
+
+#ol{
+    position: absolute;
+    text-align: center;
+    color:#450f26;
+    font-family: sans-serif;
+    width:850px;
+    left: 80px;
+    
+}
+#experiencia{
+    position: relative;
+    background-color: #F0EFF4;
+    width: 750px;;
+    height:300px;
+    position: relative;
+    left: 430px;
+    top: 90px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#ex{
+    position:relative;
+    left: 220px;
+    top:15px;
+    color:#00398a
+}
+ul{
+    list-style: none;
+    margin: 0;
+  padding: 0;
+  left: 50px;
+  font-family: sans-serif;
+  color:#450f26;
+}
+#A{
+  position: relative;
+  left: 10px;
+  top: 25px;
+  padding-left: 15px;
+}
+#B{
+    position: relative;
+  left: 10px;
+  top: 20px;
+  padding-left: 15px;
+}
+#c{
+
+    color:#6a527a
+
+}
+#formacion{
+    position: relative;
+    background-color: #F0EFF4;
+    width: 750px;;
+    height:160px;
+    position: relative;
+    left: 430px;
+    top: 90px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#fo{
+    position:relative;
+    left: 210px;
+    top:20px;
+    color:#00398a
+}
+#for{
+    position: relative;
+    top:20px;
+    
+}
+#form{
+    position: relative;
+    left: 10px;
+    padding-left: 15px;
+    padding-top: 5px;
+}
+#estudios{    
+    position: relative;
+    background-color: #F0EFF4;
+    width: 750px;;
+    height:400px;
+    position: relative;
+    left: 430px;
+    top: 90px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+#es{
+    position: relative;
+    left: 210px;
+    color: #00398a;
+    top: 15px;
+    
+}
+
+#estu{
+    position: relative;
+    left: 10px;
+    padding-left: 15px;
+
+}
+#est{
+    position: relative;
+   top:20px
+}
+#datos{
+    position: relative;
+    height: 200px;
+    width: 300px;
+    background-color: #F0EFF4;
+    bottom: 1130px;
+    left: 120px;
+}
+#d{
+    position: relative;
+    text-align: center;
+    top: 25px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:#00398a
+
+}
+#e{
+    position: relative;
+    text-align: center;
+    top: 40px;
+    font-family: sans-serif;
+    color:#450f26;
+
+}
+#idiomas{
+    position: relative;
+    height: 150px;
+    width: 300px;
+    background-color: #F0EFF4;
+    bottom: 1130px;
+    left: 120px;
+}
+#i{
+    position: relative;
+    text-align: center;
+    top: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:#00398a;
+}
+#id{
+    position: relative;
+    text-align: center;
+    top: 20px;
+    font-family: sans-serif;
+    color:#450f26;
+
+}
+#herramientas{ 
+    position: relative;
+    height: 460px;
+    width: 300px;
+    background-color: #F0EFF4;
+    bottom: 1130px;
+    left: 120px;
+   
+}
+#h{
+    position: relative;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:#00398a;
+    text-align: center;
+    top:10px;
+}
+#di{
+    position: relative;
+    top:15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:#00398a;
+    text-align: center;
+
+}
+#dii{
+    position: relative;
+    top:15px;
+    right: 10px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:#00398a;
+    text-align: center;}
+#he{
+     position: relative;
+    text-align: center;
+    font-family: sans-serif;
+    color:#450f26;
+    bottom:5px;
+    right:5px;
+    top: 2px;
+}
+#conocimientos{
+    position: relative;
+    background-color: #F0EFF4;
+    width: 750px;;
+    height:300px;
+    position: relative;
+    left: 430px;
+    top: 90px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#otros{
+    position: relative;
+    top:15px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:#00398a;
+    text-align: center;
+}
+#cono{
+    padding-left: 20px;
+}
+#container{
+    position: relative;
+    background-color: #F0EFF4;
+    width: 750px;;
+    height:400px;
+    position: relative;
+    left: 430px;
+    bottom:760px ;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+   }
+#trabajemos{
+    position: relative;
+    color:#00398a;
+    text-align: center;
+    top: 30px;
+}
+#caja{ 
+    position: relative;
+    width: 520px;
+    left: 120px;
+    top: 30px;
+}
+#boton_sub{
+position: relative;
+border: 1px solid #C7934A; /*anchura, estilo y color borde*/
+padding: 10px; /*espacio alrededor texto*/
+background-color: #6a567a; /*color botón*/
+color: #F0EFF4; /*color texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Cantata One', serif; /*tipografía texto*/
+border-radius: 30px; /*bordes redondos*/
+text-decoration-line: underline overline;
+text-align: center;
+width: 520px;
+left: 120px;
+top: 45px;
+}
